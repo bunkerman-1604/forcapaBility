@@ -1,0 +1,11 @@
+1、jdk路径添加到JAVA_HOME环境变量
+2、node.msi(http://nodejs.org/download)
+3、ADT(http://www.androiddevtools.cn/)
+4、SDK路径添加到ANDROID_HOME环境变量
+5、ActivePython添加到PYTHON环境变量(pip环境变量——PYTHON/scripts)（Python官网、python -m pip install -U pip）
+6、selenium安装(pip install selenium/pip install upgrade setuptools)
+7、appium安装(pip install Appium-Python-Client)
+
+8、创建并打开一个android虚拟机
+9、启动appium（cmd——appium）
+10、执行脚本文件（android_contacts.py）
